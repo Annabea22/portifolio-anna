@@ -109,7 +109,7 @@ text-decoration: none;
 }
 
 .container img {
-    width: 50$;
+    width: 50%;
     display: block;
     margin: 0 auto;
     margin-top: -200px;
@@ -142,5 +142,4 @@ justify-content: center;
 
 .apresentacao__conteudo{
     width: auto;
-}
 }
